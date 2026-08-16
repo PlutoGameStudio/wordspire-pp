@@ -2,7 +2,7 @@
 
 **Last updated: 15 August 2026**
 
-WordSpire is a vocabulary game for Android, published by Mehmet Başgöl.
+WordSpire is a vocabulary game for Android, published by Pluto Studio.
 
 This policy explains what the app does with your information. The short version: **it does not
 collect any.**
